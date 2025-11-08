@@ -1,6 +1,7 @@
 Project Details
 
 **Project Title:** Course Recommendation System 
+
 **Name:** Krishna Wairagade  
 **Roll No:** 42 (Replace with yours)  
 **Course:** Flexi Credit Course  
